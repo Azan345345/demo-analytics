@@ -1,1 +1,25 @@
-# demo-analytics
+# Demo Analytics
+
+This repository contains a data analytics dashboard built with Python and Streamlit. The dashboard provides interactive visualizations and insights from various datasets, making it easy to explore and analyze data effectively.
+
+## Features
+- Interactive charts and graphs
+- Real-time data updates
+- User-friendly interface
+
+## Technologies Used
+- Python
+- Streamlit
+
+## Getting Started
+To run the dashboard locally, clone the repository and install the required dependencies:
+
+```bash
+git clone https://github.com/Azan345345/demo-analytics.git
+cd demo-analytics
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## License
+This project is licensed under the MIT License.
